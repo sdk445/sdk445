@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @sdk445
-- 👀 I’m interested in ... various programming languages
-- 🌱 I’m currently learning ...Blockchain , GraphQl
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...chinubist445@gmail.com
 
 <!---
