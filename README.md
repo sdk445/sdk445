@@ -3,7 +3,7 @@
 <div align="center" style="background-color:#1e1e1e; padding: 20px; border-radius: 10px;">
   
   <h1 style="color: #f0f0f0;">👋 Hi, I'm Chinmoy</h1>
-  <h3 style="color: #c0c0c0;">🚀 Backend Developer</h3>
+  <h3 style="color: #c0c0c0;">Backend Developer</h3>
   
   <!-- Programming Languages Section -->
   <p style="color: #f0f0f0; font-size: 20px;">💻 Programming Languages & Tools I Use:</p>
