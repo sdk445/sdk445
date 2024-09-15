@@ -1,14 +1,15 @@
 ## About me
 
-<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+<img align="right" width="400" src="https://media1.tenor.com/m/zOmbUO9VA9AAAAAC/wget-raspi.gif"/>
+
 ```ASM
 format ELF64 executable
 
 segment readable writable  
-    name db 'Chinmoy Das', 0  
-    acknowledgements db 'Hobby Developer', 0 
+    name db 'Chinmoy Das', 0
+    org  db 'github.com/wbccpals'
+    acknowledgements db 'Hobby Developer', 0
     location db 'Bankura, Westbengal, India', 0
-
 segment readable executable  
     entry start 
 start:
