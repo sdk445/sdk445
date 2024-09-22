@@ -37,23 +37,21 @@ start:
           
 ## **GitHub Statistics**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/sdk445">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdk445&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/sdk445">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sdk445&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 ![pv](https://pageview.vercel.app/?github_user=sdk445)
 
 [website]: http://www.xnimbus.com/
-[instagram]: https://www.instagram.com/hiynomc/
 [linkedin]: https://www.linkedin.com/in/chinmoysdk445/
 <br>
 
 #### Sociai Networks
 
 🏡 [website][website] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
