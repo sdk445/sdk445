@@ -40,5 +40,4 @@ start:
 
 #### Sociai Networks
 
-🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
