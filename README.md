@@ -34,7 +34,6 @@ start:
 <a href="https://www.gnu.org/software/emacs/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg" alt="xcode" width="40" height="40"/> </a> </p>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="xcode" width="40" height="40"/> </a> </p>
 
-![pv](https://pageview.vercel.app/?github_user=sdk445)
 
 [website]: http://www.xinoxis.com/
 [linkedin]: https://www.linkedin.com/in/chinmoysdk445/
